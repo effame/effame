@@ -4,12 +4,19 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
+### 💻 Languages & Frameworks
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,python,firebase,redis,vercel,git,powershell,vitest&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,tailwind&theme=dark" />
+</p>
+
+### ☁️ Cloud, Databases & Services
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,redis,vercel&theme=dark" />
+</p>
+
+### 🛠️ Tools & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,powershell,vitest,vscode&theme=dark" />
 </p>
 
 ---
