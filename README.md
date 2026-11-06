@@ -13,7 +13,9 @@
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,expo,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react&theme=dark" />
+  <img src="assets/icons/expo.svg" width="48" height="48" alt="Expo" title="Expo" style="margin-left: 2px; margin-right: 2px; vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
 </p>
 
 ### ☁️ Cloud, Infrastructure & Databases
