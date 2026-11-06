@@ -36,6 +36,13 @@ Full-Stack & AI Systems Developer passionate about building clean, high-performa
 
 ---
 
+### Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/effame/effame/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 ### Connect with Me
 <p align="left">
   <a href="mailto:official@stockgen-ai.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="28" alt="Email" title="Email: official@stockgen-ai.com" style="margin-right: 4px;" /></a>
