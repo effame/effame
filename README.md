@@ -31,7 +31,9 @@ Full-Stack & AI Systems Developer passionate about building clean, high-performa
 
 ### Environments, Tools & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,vscode,powershell,git,github,figma,blender,discord,vitest,postman&theme=dark" height="28" style="vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,vscode,powershell,git,github,gitlab&theme=dark" height="28" style="vertical-align: top;" />
+  <img src="assets/icons/ngrok.svg" width="28" height="28" alt="ngrok" title="ngrok" style="margin-left: 2px; margin-right: 2px; vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,discord,vitest,postman&theme=dark" height="28" style="vertical-align: top;" />
 </p>
 
 ---
