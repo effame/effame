@@ -35,3 +35,5 @@ Full-Stack & AI Systems Developer passionate about building clean, high-performa
 ---
 
 *Pair-programmed and automated with Google Antigravity & AI Agents.*
+
+<!-- pair-sync -->
