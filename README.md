@@ -11,15 +11,17 @@
 
 ### 🤖 AI & Machine Learning
 <p align="left">
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="48" height="48" alt="Gemini" title="Gemini" style="margin-right: 8px;" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="48" height="48" alt="OpenAI" title="OpenAI" style="margin-right: 8px;" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="48" height="48" alt="Claude" title="Claude" style="margin-right: 8px;" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-avatar/avatars/gemini.webp" width="48" height="48" alt="Gemini" title="Google Gemini" style="border-radius: 12px; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-avatar/avatars/openai.webp" width="48" height="48" alt="OpenAI" title="OpenAI" style="border-radius: 12px; margin-right: 6px;" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-avatar/avatars/claude.webp" width="48" height="48" alt="Claude" title="Claude" style="border-radius: 12px; margin-right: 6px;" />
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align: top;" />
 </p>
 
 ### ☁️ Cloud, Networking & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,cloudflare,tailscale,firebase,redis,vercel,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,cloudflare&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailscale.svg" width="48" height="48" alt="Tailscale" title="Tailscale" style="background-color: #242938; padding: 8px; border-radius: 12px; margin-left: 2px; margin-right: 2px; vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=firebase,redis,vercel,docker&theme=dark" />
 </p>
 
 ### 🛠️ Tools, Design & Productivity
