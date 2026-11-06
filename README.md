@@ -11,10 +11,10 @@
 
 ### 🤖 AI & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-  <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" height="48" style="vertical-align: middle;" /></a>
-  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" style="vertical-align: middle;" /></a>
-  <a href="https://anthropic.com"><img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" height="48" style="vertical-align: middle;" /></a>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="48" height="48" alt="Gemini" title="Gemini" style="margin-right: 8px;" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="48" height="48" alt="OpenAI" title="OpenAI" style="margin-right: 8px;" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="48" height="48" alt="Claude" title="Claude" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align: top;" />
 </p>
 
 ### ☁️ Cloud, Networking & Infrastructure
