@@ -1,6 +1,6 @@
 ### Hi there, I'm effame 👋
 
-🚀 **Full-Stack & AI Systems Developer** passionate about building clean, high-performance, and scalable software solutions.
+Full-Stack & AI Systems Developer passionate about building clean, high-performance, and scalable software solutions.
 
 ---
 
