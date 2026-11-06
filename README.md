@@ -16,9 +16,8 @@ Full-Stack & AI Systems Developer passionate about building clean, high-performa
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" height="28" style="vertical-align: top;" />
   <img src="assets/icons/nextjs.svg" width="28" height="28" alt="Next.js" title="Next.js" style="margin-left: 2px; margin-right: 2px; vertical-align: top;" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="28" style="vertical-align: top;" />
-  <img src="assets/icons/expo.svg" width="28" height="28" alt="Expo" title="Expo" style="margin-left: 2px; margin-right: 2px; vertical-align: top;" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="28" style="vertical-align: top;" />
+  <img src="assets/icons/expo.svg" width="28" height="28" alt="Expo" title="Expo" style="margin-left: 1px; margin-right: 2px; vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" height="28" style="vertical-align: top;" />
 </p>
 
 ### Cloud, Infrastructure & Databases
