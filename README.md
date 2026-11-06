@@ -2,6 +2,8 @@
 
 🚀 **Full-Stack & Systems Developer** passionate about building clean, efficient, and scalable software solutions.
 
+[![GitRanks Profile](https://img.shields.io/badge/GitRanks-effame-238636?style=for-the-badge&logo=github&logoColor=white)](https://gitranks.com/profile/effame)
+
 ---
 
 ### 🛠️ Languages & Tools
