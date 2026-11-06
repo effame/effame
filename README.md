@@ -43,6 +43,7 @@ Full-Stack & AI Systems Developer passionate about building clean, high-performa
   <a href="mailto:official@stockgen-ai.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="28" alt="Email" title="Email: official@stockgen-ai.com" style="margin-right: 4px;" /></a>
   <a href="https://discord.com/users/effamez"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="28" alt="Discord" title="Discord: @effamez" style="margin-right: 4px;" /></a>
   <a href="https://github.com/effame/effame/discussions"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="28" alt="GitHub Discussions" title="GitHub Discussions" /></a>
+  <a href="https://www.linkedin.com/in/pathawee-nuphonthong-03445b422/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="28" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
 
 ---
