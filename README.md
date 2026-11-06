@@ -6,9 +6,10 @@
 
 ### 🤖 AI & Coding Assistants
 <p align="left">
-  <img src="assets/icons/antigravity.webp" width="48" height="48" alt="Google Antigravity" title="Google Antigravity (Gemini)" style="border-radius: 12px; margin-right: 4px;" />
-  <img src="assets/icons/deepseek.webp" width="48" height="48" alt="DeepSeek Harness" title="DeepSeek Harness (DeepSeek)" style="border-radius: 12px; margin-right: 4px;" />
-  <img src="assets/icons/copilot.webp" width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot (GPT & Claude)" style="border-radius: 12px;" />
+  <img src="assets/icons/antigravity.webp" width="48" height="48" alt="Google Antigravity" title="Google Antigravity" style="border-radius: 12px; margin-right: 4px;" />
+  <img src="assets/icons/deepseek.webp" width="48" height="48" alt="DeepSeek Harness" title="DeepSeek Harness" style="border-radius: 12px; margin-right: 4px;" />
+  <img src="assets/icons/githubcopilot.webp" width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot" style="border-radius: 12px; margin-right: 4px;" />
+  <img src="assets/icons/muse.webp" width="48" height="48" alt="Muse" title="Muse" style="border-radius: 12px;" />
 </p>
 
 ### 💻 Languages & Frameworks
