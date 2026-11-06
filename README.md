@@ -2,6 +2,8 @@
 
 Full-Stack & AI Systems Developer passionate about building clean, high-performance, and scalable software solutions.
 
+🔭 Building scalable Full-Stack & AI-driven applications.
+
 ---
 
 ### AI & Coding Assistants
@@ -35,5 +37,3 @@ Full-Stack & AI Systems Developer passionate about building clean, high-performa
 ---
 
 *Pair-programmed and automated with Google Antigravity & AI Agents.*
-
-<!-- pair-sync -->
