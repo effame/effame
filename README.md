@@ -17,14 +17,14 @@
   <a href="https://anthropic.com"><img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" height="48" style="vertical-align: middle;" /></a>
 </p>
 
-### ☁️ Cloud, Databases & DevOps
+### ☁️ Cloud, Networking & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,redis,vercel,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,cloudflare,tailscale,firebase,redis,vercel,docker&theme=dark" />
 </p>
 
-### 🛠️ Tools & Environments
+### 🛠️ Tools, Design & Productivity
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,powershell,vscode,postman,vitest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,blender,powershell,vscode,postman,gmail,vitest&theme=dark" />
 </p>
 
 ---
