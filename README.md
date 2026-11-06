@@ -4,29 +4,28 @@
 
 ---
 
-### 💻 Languages, Runtimes & Frameworks
+### 🤖 AI & Coding Assistants
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,bun,nodejs,nextjs,react,tailwind&theme=dark" />
+  <img src="assets/icons/antigravity.webp" width="48" height="48" alt="Google Antigravity" title="Google Antigravity (Gemini)" style="border-radius: 12px; margin-right: 4px;" />
+  <img src="assets/icons/deepseek.webp" width="48" height="48" alt="DeepSeek Harness" title="DeepSeek Harness (DeepSeek)" style="border-radius: 12px; margin-right: 4px;" />
+  <img src="assets/icons/copilot.webp" width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot (GPT & Claude)" style="border-radius: 12px;" />
 </p>
 
-### 🤖 AI & Machine Learning
+### 💻 Languages & Frameworks
 <p align="left">
-  <img src="assets/icons/gemini.webp" width="48" height="48" alt="Gemini" title="Google Gemini" style="border-radius: 12px; margin-right: 2px;" />
-  <img src="assets/icons/openai.svg" width="48" height="48" alt="OpenAI" title="OpenAI" style="border-radius: 12px; margin-right: 2px;" />
-  <img src="assets/icons/claude.webp" width="48" height="48" alt="Claude" title="Claude" style="border-radius: 12px; margin-right: 2px;" />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,expo,tailwind&theme=dark" />
 </p>
 
-### ☁️ Cloud, Networking & Infrastructure
+### ☁️ Cloud, Infrastructure & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,cloudflare&theme=dark" />
   <img src="assets/icons/tailscale.svg" width="48" height="48" alt="Tailscale" title="Tailscale" style="margin-left: 2px; margin-right: 2px; vertical-align: top;" />
-  <img src="https://skillicons.dev/icons?i=firebase,redis,vercel,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,redis,vercel&theme=dark" />
 </p>
 
-### 🛠️ Tools, Design & Productivity
+### 🛠️ Environments, Tools & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,blender,powershell,vscode,postman,gmail,vitest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,vscode,powershell,git,github,figma,blender,discord,vitest,postman&theme=dark" />
 </p>
 
 ---
