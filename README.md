@@ -31,7 +31,7 @@ Full-Stack & AI Systems Developer passionate about building clean, high-performa
 
 ### Environments, Tools & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,vscode,powershell,git,github,figma,blender,discord,vitest,postman&theme=dark" height="28" style="vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,vscode,powershell,git,figma,blender,vitest,postman&theme=dark" height="28" style="vertical-align: top;" />
 </p>
 
 ---
